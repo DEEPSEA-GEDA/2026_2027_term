@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\code\\2026_11_7_4\\",
+  "WorkspaceRootPath": "C:\\code\\2026_2027_term\\2026_11_7_4\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DEAE76B5-CDB9-4630-8DD9-DE2489A0D57A}|2026_11_7_4\\2026_11_7_4.vcxproj|C:\\code\\2026_11_7_4\\2026_11_7_4\\2026_11_7_4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{DEAE76B5-CDB9-4630-8DD9-DE2489A0D57A}|2026_11_7_4\\2026_11_7_4.vcxproj|C:\\code\\2026_2027_term\\2026_11_7_4\\2026_11_7_4\\2026_11_7_4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{DEAE76B5-CDB9-4630-8DD9-DE2489A0D57A}|2026_11_7_4\\2026_11_7_4.vcxproj|solutionrelative:2026_11_7_4\\2026_11_7_4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -20,9 +20,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "2026_11_7_4.cpp",
-              "DocumentMoniker": "C:\\code\\2026_11_7_4\\2026_11_7_4\\2026_11_7_4.cpp",
+              "DocumentMoniker": "C:\\code\\2026_2027_term\\2026_11_7_4\\2026_11_7_4\\2026_11_7_4.cpp",
               "RelativeDocumentMoniker": "2026_11_7_4\\2026_11_7_4.cpp",
-              "ToolTip": "C:\\code\\2026_11_7_4\\2026_11_7_4\\2026_11_7_4.cpp",
+              "ToolTip": "C:\\code\\2026_2027_term\\2026_11_7_4\\2026_11_7_4\\2026_11_7_4.cpp",
               "RelativeToolTip": "2026_11_7_4\\2026_11_7_4.cpp",
               "ViewState": "AgIAABMAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
